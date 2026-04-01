@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I am Mohd Sabir 👋  
+B.Tech Cybersecurity student at IIIT Kottayam  
 
-<!--
-**saabr-26/saabr-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Interests:
+- Cryptography
+- Post-Quantum Cryptography
+- Security Research  
 
-Here are some ideas to get you started:
+⚙️ Skills:
+- Python, Linux
+- CTF (Crypto, Pwn, Forensics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects:
+- Padding Oracle Attack Demo (AES-CBC)
+- Cryptopals Crypto Challenges
