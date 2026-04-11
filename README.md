@@ -75,10 +75,9 @@ I enjoy turning ideas into **scalable, secure, and production-ready systems**, n
 - SSH (Secure remote access)  
 - Git (version control)  
 - Curl / Wget (API testing & downloads)  
-- Netstat / SS (network monitoring)  
-- Grep / Awk / Sed (text processing)  
+- Netstat (network monitoring)  
+- Grep / strings(text processing)  
 - Systemctl / Service (process management)  
-- Cron jobs (task scheduling)  
 
 ### Security & Networking Tools  
 - Nmap (network scanning & enumeration)  
@@ -97,6 +96,6 @@ I enjoy turning ideas into **scalable, secure, and production-ready systems**, n
 
 ## Philosophy  
 
-> *Always building systems that solve real-world problems — and securing them against real-world threats.*
+> *Think like an attacker. Build like a defender.*
 
 ---
