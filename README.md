@@ -1,15 +1,102 @@
-Hi, I am Mohd Sabir 👋  
-B.Tech Cybersecurity student at IIIT Kottayam  
+# Hi, I'm Mohd Sabir 👋  
+### Backend & AI Systems Builder | Cybersecurity • Cryptography • Secure Communication • IoT Systems 
 
-🔐 Interests:
-- Cryptography
-- Post-Quantum Cryptography
-- Security Research  
+I focus on **building and securing real-world systems** — including AI-driven automation, secure backend systems, and IoT-based intelligent solutions.  
+I enjoy turning ideas into **scalable, secure, and production-ready systems**, not just prototypes.
+---
 
-⚙️ Skills:
-- Python, Linux
-- CTF (Crypto, Pwn, Forensics)
+## About Me  
 
-📌 Projects:
-- Padding Oracle Attack Demo (AES-CBC)
-- Cryptopals Crypto Challenges
+- 🔹 Interested in **AI systems, backend engineering, and automation workflows**  
+- 🔹 Hands-on experience with **LLM-based applications, secure system design, and data processing systems**  
+- 🔹 Skilled in **Python, FastAPI, React, and API integrations**  
+- 🔹 Strong focus on **practical implementation over theory**  
+- 🔹 Exploring **cybersecurity, system design, and scalable architectures**  
+- 🔹 Learning and applying **cryptography, secure communication, and authentication mechanisms**
+
+---
+
+## Featured Projects  
+
+### Padding Oracle Attack Demo  
+**Cryptography attack simulation system**  
+- Demonstrates **padding oracle vulnerability in encryption systems**  
+- Practical implementation of **CBC mode attack concepts**  
+- Shows how insecure error handling can leak sensitive data  
+- Useful for understanding **real-world cryptographic flaws and exploits**  
+
+---
+
+### Quantum Teleportation  
+**Quantum communication simulation**  
+- Implementation of **quantum teleportation protocol**  
+- Demonstrates **state transfer using entanglement**  
+- Explores fundamentals of **quantum cryptography and secure communication**  
+- Educational simulation of **next-gen secure communication systems**  
+
+---
+
+### Fake Bank APK Detection System  
+**Malware detection & security analysis system**  
+- Detects **malicious banking applications (APK files)**  
+- Focus on identifying **phishing and fake financial apps**  
+- Uses **static/dynamic analysis techniques**  
+- Designed to enhance **mobile security and user protection**  
+
+---
+
+### Secure Exam System  
+**Secure digital examination platform**  
+- Built with focus on **authentication and secure access control**  
+- Prevents **cheating and unauthorized actions**  
+- Backend system for **exam management and monitoring**  
+- Emphasis on **secure communication and system integrity**  
+
+---
+## Tech Stack  
+
+### Languages  
+- Python  
+- C++  
+- JavaScript
+- Node Js
+
+### Backend & Systems  
+- FastAPI  
+- REST APIs  
+- Node Js
+
+### Frontend  
+- HTMl
+- CSS
+
+### Linux & System Tools  
+- Bash / Shell scripting  
+- SSH (Secure remote access)  
+- Git (version control)  
+- Curl / Wget (API testing & downloads)  
+- Netstat / SS (network monitoring)  
+- Grep / Awk / Sed (text processing)  
+- Systemctl / Service (process management)  
+- Cron jobs (task scheduling)  
+
+### Security & Networking Tools  
+- Nmap (network scanning & enumeration)  
+- Wireshark (packet analysis)  
+- OpenSSL (encryption & certificate handling)  
+- Netcat (network debugging & testing)  
+- Tcpdump (network traffic analysis) 
+---
+
+## Connect With Me  
+
+-  LinkedIn: [Mohd Sabir](https://www.linkedin.com/in/saabr426/)  
+-  Email: itsssbn123@gmail.com
+
+---
+
+## Philosophy  
+
+> *Always building systems that solve real-world problems — and securing them against real-world threats.*
+
+---
