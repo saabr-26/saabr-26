@@ -8,7 +8,7 @@ I enjoy turning ideas into **scalable, secure, and production-ready systems**, n
 ## About Me  
 
 - 🔹 Interested in **AI systems, backend engineering, and automation workflows**  
-- 🔹 Hands-on experience with **LLM-based applications, secure system design, and data processing systems**  
+- 🔹 Hands-on experience with **secure system design, and data processing systems**  
 - 🔹 Skilled in **Python, FastAPI, React, and API integrations**  
 - 🔹 Strong focus on **practical implementation over theory**  
 - 🔹 Exploring **cybersecurity, system design, and scalable architectures**  
