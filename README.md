@@ -1,15 +1,16 @@
 # Hi, I'm Mohd Sabir 👋  
 ### Backend & AI Systems Builder | Cybersecurity • Cryptography • Secure Communication • IoT Systems 
 
-I focus on **building and securing real-world systems** — including AI-driven automation, secure backend systems, and IoT-based intelligent solutions.  
+I focus on **building and securing real-world systems** — including AI-driven automation, secure backend systems, **Windows and Linux Log analysis and Web Traffic analysis**.  
 I enjoy turning ideas into **scalable, secure, and production-ready systems**, not just prototypes.
 ---
 
 ## About Me  
 
-- 🔹 Interested in **AI systems, backend engineering, and automation workflows**  
+- 🔹 Interested in **Defensive Security and backend engineering.**  
 - 🔹 Hands-on experience with **secure system design, and data processing systems**  
-- 🔹 Skilled in **Python, FastAPI, React, and API integrations**  
+- 🔹 Skilled in **Python, FastAPI, React, and API integrations**
+- 🔹 Familiarity with tools **nmap, burpsuit, wireshark, splunk, metasploit, SIEM and fuzzing directories**
 - 🔹 Strong focus on **practical implementation over theory**  
 - 🔹 Exploring **cybersecurity, system design, and scalable architectures**  
 - 🔹 Learning and applying **cryptography, secure communication, and authentication mechanisms**
@@ -56,13 +57,15 @@ I enjoy turning ideas into **scalable, secure, and production-ready systems**, n
 ## Tech Stack  
 
 ### Languages  
-- Python  
+- Python
 - C++  
 - JavaScript
 - Node Js
+- Solidity
 
 ### Backend & Systems  
-- FastAPI  
+- FastAPI
+- Django Framework
 - REST APIs  
 - Node Js
 
